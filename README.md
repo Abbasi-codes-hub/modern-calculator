@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🔢 Modern Calculator
 
 A stylish and functional modern calculator built using HTML, CSS, and JavaScript. Supports multiple operations with a smooth and responsive user interface.
@@ -30,3 +31,7 @@ git clone https://github.com/Abbasi-codes-hub/modern-calculator.git
 cd modern-calculator
 
 # Open the index.html in your browser
+=======
+# modern-calculator
+A modern, responsive calculator (multiple-calculations) built with HTML, CSS, and JavaScript. Designed for high calculations and explore knowledge.
+>>>>>>> b26fdd660c4e3283d35dc25fcf87f7e657d12552
